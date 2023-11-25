@@ -37,6 +37,7 @@ pip install -r requirements.txt
 - Implement alerts via WhatsApp or other messaging channels.
 - Refine the prompts to ensure stable and predictable analysis.
 - Improve the algorithm for local event capturing.
+- Make both Analyze and Monitor daemon process.
 
 # Contact
 For more information, please feel free to reach out to me at [@lipingtababa](https://github.com/lipingtababa)
